@@ -1,6 +1,6 @@
 Sure, here's a resume template based on the details you provided:
 
----
+
 
 **Sridhar Reddy Somireddy**  
 Electrical and Electronics Engineer  
@@ -8,12 +8,12 @@ Hyderabad, India
 somireddysridharreddy1223@gmail.com | +91 8688583630  
 LinkedIn
 
----
+
 
 ### Objective
 To improve skills and expertise in the field of computer science, as well as to apply the knowledge and experience obtained in this field, in order to construct complicated projects with efficiency and quality for the benefit of future human generations and to make the world a better place to live.
 
----
+
 
 ### Skills
 - Python
@@ -24,7 +24,7 @@ To improve skills and expertise in the field of computer science, as well as to 
 - Data Structures
 - MySQL
 
----
+
 
 ### Education
 **Bachelor of Technology**  
@@ -39,7 +39,7 @@ C GPA: 7.8/10
 Percentage: 94.6%  
 **Courses:** MPC
 
----
+
 
 ### Personal Projects
 **Energy Meter for Efficient Energy Utilization**  
@@ -52,7 +52,7 @@ Percentage: 94.6%
 - Developed a device to help blind people by preventing collisions with obstacles.
 - Technology helps detect obstacles by buzzing in front of them.
 
----
+
 
 ### Internship
 **AutoCAD**  
@@ -68,7 +68,7 @@ Percentage: 94.6%
 - Shared first-hand knowledge of electrical vehicles and their drives.
 - Completed case studies on motorbikes, bicycles, and electric vehicles.
 
----
+
 
 ### Positions of Responsibility
 **IEEE-ICAITPR**  
@@ -80,25 +80,23 @@ Percentage: 94.6%
 02/2022  
 - Successfully concluded the event with the most participants in our college.
 
----
+
 
 ### Certificates
 - Matlab - Great Learning
 - AutoCAD - Internshala
 
----
+
 
 ### Languages
 - English: Full Professional Proficiency
 - Hindi: Professional Working Proficiency
 - Telugu: Native or Bilingual Proficiency
 
----
+
 
 ### Interests
 - Machine Learning
 - Exploring
 
----
 
-Feel free to customize this template further to better suit your needs! If you need any more help, just let me know.
