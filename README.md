@@ -1,12 +1,10 @@
-Sure, here's a resume template based on the details you provided:
-
 
 
 **Sridhar Reddy Somireddy**  
 Electrical and Electronics Engineer  
 Hyderabad, India  
-somireddysridharreddy1223@gmail.com | +91 8688583630  
-LinkedIn
+somireddysridharreddy1223@gmail.com | 314-679-0976 
+
 
 
 
